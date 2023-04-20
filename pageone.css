@@ -1,0 +1,54 @@
+body{
+    align-items: center;
+    text-align: center;
+}
+.first{
+    text-align: center;
+    color: black;
+    background-color: blanchedalmond;
+    border-radius: 30px;
+    font-family: 'Gill Sans';
+    font-size: 30px;
+    padding-top: 14px;
+}
+img{
+    padding-top: 40px;
+    height: 600px;
+    width: 650px;
+    padding-left: 10px;
+}
+
+#eu{
+    float: right;
+    padding-top: 100px;
+    text-align: justify;
+    width: 700px;
+    padding-left: 30px;
+    font-size: 20px;
+}
+#todos{
+    display: flex;
+}
+.fotomenu{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    padding: 0 0 0 0;
+}
+#grid{
+    display: flex;
+    background-color: blanchedalmond;
+    justify-content: space-around;
+    text-align:justify;
+    width: 100% ;
+    text-align: center;
+}
+.imglogo{
+    height: 60px;
+    width: 60px;
+    border-radius: 100px;
+    padding: 0 0 0 0;
+}
+footer{
+    background-color: blanchedalmond;
+}
